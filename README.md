@@ -15,15 +15,15 @@
 Screenshots of command execution:
 <ul>
 <li>
-<a href="https://monosnap.com/file/16Z19uBAbrgfR4xBT8eSwCu5mxHGrJ" rel="stylesheet"></a>
+<a href="https://monosnap.com/file/16Z19uBAbrgfR4xBT8eSwCu5mxHGrJ" rel="stylesheet">Screenshots-1</a>
 </li>
 <li>
-<a href="https://monosnap.com/file/F44pohVwS0rf043TYic7J2Xfu5ssKC" rel="stylesheet"></a>
+<a href="https://monosnap.com/file/F44pohVwS0rf043TYic7J2Xfu5ssKC" rel="stylesheet">Screenshots-2</a>
 </li>
 <li>
-<a href="https://monosnap.com/file/wtmbhdWDxOApmXmqpHyr35n6dshS5n" rel="stylesheet"></a>
+<a href="https://monosnap.com/file/wtmbhdWDxOApmXmqpHyr35n6dshS5n" rel="stylesheet">Screenshots-3</a>
 </li>
 <li>
-<a href="https://monosnap.com/file/Lk9cY6uQfE3aXiNVMyakSkXytUEMcX" rel="stylesheet"></a>
+<a href="https://monosnap.com/file/Lk9cY6uQfE3aXiNVMyakSkXytUEMcX" rel="stylesheet">Screenshots-4</a>
 </li>
 </ul>
